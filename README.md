@@ -1,0 +1,1 @@
+Client analytics script to gather + send metrics to a server. Atlas.js
